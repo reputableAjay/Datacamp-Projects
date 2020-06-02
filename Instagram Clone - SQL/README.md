@@ -1,1 +1,1 @@
-# SQLCloneProject
+# Instagram Clone - SQL
